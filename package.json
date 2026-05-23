@@ -1,6 +1,6 @@
 {
   "name": "zmd-crypto-core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Zero-knowledge, zero-middleware serverless encryption engine with built-in client-side time expiry verification.",
   "main": "index.js",
   "type": "module",
