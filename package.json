@@ -1,6 +1,6 @@
 {
   "name": "zmd-crypto-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zero-knowledge, zero-middleware serverless encryption engine with built-in client-side time expiry verification.",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashokkhichi010/zmd-crypto-core"
+    "url": "git+https://github.com/ashokkhichi010/zmd-crypto-core.git"
   },
   "keywords": [
     "privacy",
@@ -22,7 +22,7 @@
     "p2p-sharing",
     "client-side-encryption"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Ashok Kumar - ashokkhichi010@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ashokkhichi010/zmd-crypto-core"
