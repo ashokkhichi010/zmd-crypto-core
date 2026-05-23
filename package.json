@@ -1,0 +1,43 @@
+{
+  "name": "zmd-crypto-core",
+  "version": "1.0.0",
+  "description": "Zero-knowledge, zero-middleware serverless encryption engine with built-in client-side time expiry verification.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashokkhichi010/zmd-crypto-core"
+  },
+  "keywords": [
+    "privacy",
+    "zero-knowledge",
+    "serverless",
+    "web-crypto",
+    "aes-gcm",
+    "aes-cbc",
+    "time-expiry",
+    "p2p-sharing",
+    "client-side-encryption"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashokkhichi010/zmd-crypto-core"
+  },
+  "homepage": "https://github.com/ashokkhichi010/zmd-crypto-core",
+  "files": [
+    "index.js",
+    "methods.js",
+    "utils.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=19.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
